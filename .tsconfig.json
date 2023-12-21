@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "node",
+    "baseUrl": "src",
+    "outDir": "dist",
+    "sourceMap": true,
+    "nodeImplicitAny": true
+  },
+  "include": ["src/**/*"]
+}
